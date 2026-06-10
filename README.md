@@ -62,36 +62,13 @@ Currently studying in South Korea
 ### Project Overview
 Applied management science techniques to analyze business problems and support decision-making through quantitative methods.
 
-### Key Contributions
-- Conducted business data analysis
-- Evaluated alternative solutions
-- Applied decision-making models
-- Presented findings using reports and presentations
-
-### Skills Applied
-- Microsoft Excel
-- Data Analysis
-- Problem Solving
-- Business Decision Making
 
 ---
 
 ## 🌏 International Trade Project
 
 ### Project Overview
-Researched international trade theories, global markets, and trade relationships between countries.
-
-### Key Contributions
-- Analyzed international trade trends
-- Studied import and export practices
-- Conducted market research
-- Prepared academic reports and presentations
-
-### Skills Applied
-- Research
-- Market Analysis
-- Communication
-- Presentation Skills
+Researched international trade theories, global markets, and trade relationships between countries.s
 
 ---
 
